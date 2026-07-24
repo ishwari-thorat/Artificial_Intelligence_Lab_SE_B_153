@@ -1,0 +1,4 @@
+Output of the factorial program:
+Enter the number5
+120
+
